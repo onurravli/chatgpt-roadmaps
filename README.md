@@ -3,3 +3,4 @@
 
 1) [Javascript](./javascript.md)
 2) [C++](./cpp.md)
+3) [Playing Guitar](./playing-guitar.md)
